@@ -1,9 +1,9 @@
 # LifeGpa app Landing Page (HTML/CSS/JS)
 
 
-#Provided Description of the product: 
+# Provided Description of the product: 
 
- #Pitch: 
+ # Pitch: 
  If you gave your life a grade right now what would it be?
 
  How would you rank your combined efforts in all your different life categories like personal development, professional goals, physical fitness, AND relationship building?
@@ -17,4 +17,4 @@
 
  # Goal: 
   To design and build a landing/marketing page for LifeGPA app.
-  
+
