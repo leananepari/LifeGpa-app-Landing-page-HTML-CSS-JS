@@ -18,3 +18,5 @@
  # Goal: 
   To design and build a landing/marketing page for LifeGPA app.
 
+  p.s. This project started as a group project where the marketing site content was devided among the group members. I am taking whatever I built during that time and adding additional ideas I have had for this project. 
+
